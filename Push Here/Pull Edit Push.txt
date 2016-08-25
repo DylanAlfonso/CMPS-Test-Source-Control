@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 Nicholas Dolan: It takes a long time to become young. -- Pablo Picasso
 Jonathan Chambers: Computers are like Old Testament gods; lots of rules and no mercy. -- Joseph Campbell
-Margaret Ohler: 
+Margaret Ohler: “Be yourself; everyone else is already taken.” - Oscar Wilde
+=======
+﻿Nicholas Dolan: It takes a long time to become young. -- Pablo Picasso
+Jonathan Chambers: Computers are like Old Testament gods; lots of rules and no mercy. -- Joseph Campbell
+Daryl Blink: You will be hungry soon, order takeout now. -- Fortune Cookie
+Amanda Costales: Nothing is impossible,the word itself says 'I'm possible'!-- Audrey Hepburn
+Toby Everett: Art is not what you see, but what you make others see. —- Edgar Degas
+Michael Hutto: R2D2! You know better than to trust a strange computer! —- C3P0
+Clinton Walker: I pretty much operate on adrenaline and ignorance -- Johnny Knoxville 
+Arkeith White: "Only an artist can interpret the meaning of life"-Novalis
+Drew Ilgenfritz: A good plan executed violently today is better than a perfect plan executed next week. --George Patton
+Michael Misuraca: "You Miss 100% of the Shots You Don't Take - Wayne Gretzky" - Michael Scott
+>>>>>>> ba4279120381d8486df297202e01aaff0bbb9d01
