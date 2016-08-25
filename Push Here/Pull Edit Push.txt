@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 Nicholas Dolan: It takes a long time to become young. -- Pablo Picasso
 Jonathan Chambers: Computers are like Old Testament gods; lots of rules and no mercy. -- Joseph Campbell
 Margaret Ohler: “Be yourself; everyone else is already taken.” - Oscar Wilde
-=======
 ﻿Nicholas Dolan: It takes a long time to become young. -- Pablo Picasso
 Jonathan Chambers: Computers are like Old Testament gods; lots of rules and no mercy. -- Joseph Campbell
 Daryl Blink: You will be hungry soon, order takeout now. -- Fortune Cookie
@@ -13,4 +12,6 @@ Clinton Walker: I pretty much operate on adrenaline and ignorance -- Johnny Knox
 Arkeith White: "Only an artist can interpret the meaning of life"-Novalis
 Drew Ilgenfritz: A good plan executed violently today is better than a perfect plan executed next week. --George Patton
 Michael Misuraca: "You Miss 100% of the Shots You Don't Take - Wayne Gretzky" - Michael Scott
->>>>>>> ba4279120381d8486df297202e01aaff0bbb9d01
+Jacob Nance: "The ocean is yours, swim until you get tired, tread water for a while, and then swim again" --Ihssan Alkadi
+Rachael Bunn: "I love turtles". -- Nathan stone
+Timothy Thibodaux: "No one man can do great things, but he can do small things with great love." - Mother Theresa
